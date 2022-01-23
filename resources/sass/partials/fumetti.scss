@@ -1,0 +1,44 @@
+#container {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  }
+  
+#current-series {
+  background-color: #0282f9;
+  color: #fff;
+  padding: 20px 30px;
+  position: absolute;
+  top: -29px;
+  left: 0px;
+}
+  
+#btn-more {
+  margin: 30px auto;
+  color: white;
+  font-size: 25px;
+  background-color: #0282f9;
+  padding: 10px 55px;
+}
+
+.serie {
+  color: #fff;
+  margin-top: 55px;
+  width: calc(100% / 6);
+  padding: 0 20px;
+      
+    .serie-img {
+      width: 100%;
+      overflow: hidden;
+
+      img {
+      max-height: 200px;
+      }
+    }
+
+    .serie-name {
+        margin-top: 20px;
+    }
+}

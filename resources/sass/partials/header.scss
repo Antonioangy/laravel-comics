@@ -1,0 +1,22 @@
+header {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+
+        img {
+            height: 100px;
+            margin: 0 80px;
+        }
+
+        li {
+        display: inline-block;
+        margin: 0 15px;
+        }
+        a {
+            text-decoration: none;
+            padding-bottom: 48px;
+            color: black;
+        }
+}

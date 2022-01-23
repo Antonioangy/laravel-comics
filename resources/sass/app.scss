@@ -1,1 +1,28 @@
-//
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1c1c1c;
+  }
+// Header 
+
+@import 'partials/header';
+
+// Jumbo 
+@import 'partials/jumbo';
+
+// fumetti
+@import 'partials/fumetti';
+
+// fumetto
+@import 'partials/fumetto';
+
+//shop contenuto
+@import 'partials/shop';
+
+// Footer 
+@import 'partials/footer';
+  

@@ -1,0 +1,171 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1c1c1c;
+}
+
+header {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+}
+
+header img {
+  height: 100px;
+  margin: 0 80px;
+}
+
+header li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+header a {
+  text-decoration: none;
+  padding-bottom: 48px;
+  color: black;
+}
+
+#jumbo {
+  background-image: url("https://upload.wikimedia.org/wikipedia/it/0/0a/SupermanReturnsMovie.jpg");
+  background-position: center;
+  height: 400px;
+}
+
+#container {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+#current-series {
+  background-color: #0282f9;
+  color: #fff;
+  padding: 20px 30px;
+  position: absolute;
+  top: -29px;
+  left: 0px;
+}
+
+#btn-more {
+  margin: 30px auto;
+  color: white;
+  font-size: 25px;
+  background-color: #0282f9;
+  padding: 10px 55px;
+}
+
+.serie {
+  color: #fff;
+  margin-top: 55px;
+  width: 16.6666666667%;
+  padding: 0 20px;
+}
+
+.serie .serie-img {
+  width: 100%;
+  overflow: hidden;
+}
+
+.serie .serie-img img {
+  max-height: 200px;
+}
+
+.serie .serie-name {
+  margin-top: 20px;
+}
+
+#blue-bar {
+  background-color: #0282f9;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#buy-comics {
+  margin: 0 auto;
+  width: 20%;
+  display: flex;
+}
+
+img {
+  width: 100px;
+  vertical-align: middle;
+}
+
+#footer-menu {
+  display: flex;
+  justify-content: space-around;
+  height: 400px;
+}
+
+#footer-menu nav {
+  padding: 45px 0;
+  display: flex;
+}
+
+#footer-menu nav div {
+  margin: 0 10px;
+}
+
+#footer-menu h3 {
+  color: white;
+  margin-bottom: 10px;
+}
+
+#footer-menu ul {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+#footer-menu li {
+  color: #5b6f7b;
+  margin: 2px 0;
+}
+
+#logo-footer img {
+  width: 600px;
+  height: 100%;
+  -o-object-fit: none;
+     object-fit: none;
+}
+
+#footer-contacts {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #303030;
+  padding: 30px 0;
+}
+
+#footer-contacts .sign-up {
+  padding: 10px 20px;
+  color: white;
+  border: 2px solid #0282f9;
+}
+
+#footer-contacts .socials {
+  color: #0282f9;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+
+#footer-contacts .socials span {
+  margin-right: 20px;
+}
+
+#footer-contacts .socials i {
+  color: white;
+  margin: 0 10px;
+}
+
