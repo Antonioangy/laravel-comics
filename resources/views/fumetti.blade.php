@@ -5,137 +5,137 @@
     <div id="current-series">CURRENT SERIES</div>
 
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
 
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     <div class="serie">
+        <a href="{{route('fumetto')}}">
+            <div class="serie-img">
+                <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
+            </div>
 
-        <div class="serie-img">
-            <img src="https://media-assets.wired.it/photos/6194c3683aee792659b58fe6/2:3/w_900,h_1350,c_limit/FDo0mohVQAAP5Td.jpeg">
-        </div>
-
-        <div class="serie-name">
-            <span>Spider-Man</span>
-        </div>
-    
+            <div class="serie-name">
+                <span>Spider-Man</span>
+            </div>
+        </a>
     </div>
     
     <div id="btn-more">LOAD MORE</div> 

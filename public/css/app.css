@@ -84,6 +84,117 @@ header a {
   margin-top: 20px;
 }
 
+#background-blue-bar {
+  background-color: #0282f9;
+  height: 80px;
+}
+
+#container-fumetto {
+  margin: 0px auto;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.color-white {
+  background-color: white;
+  padding: 50px 0;
+  position: relative;
+}
+
+.color-white p {
+  margin-right: 30px;
+}
+
+.color-white #fumetto-img {
+  width: 150px;
+  position: absolute;
+  top: -260px;
+  left: 300px;
+}
+
+#green-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #55ba59;
+  margin: 20px 80px 20px 0;
+  width: 800px;
+}
+
+#green-bar #left-halfbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  padding: 10px 20px;
+  border-right: 1px solid gray;
+}
+
+#green-bar #right-halfbar {
+  width: 20%;
+  display: flex;
+}
+
+.large {
+  width: 800px;
+}
+
+.color-grey {
+  background-color: #f6f6f6;
+}
+
+#talents-specs {
+  display: flex;
+  margin: 0 auto;
+  width: 70%;
+}
+
+#talents-specs #talents {
+  width: 50%;
+}
+
+#talents-specs #specs {
+  width: 50%;
+}
+
+#talents-specs #more-info {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px 0 0;
+}
+
+#talents-specs #more-info .subtitle {
+  width: 30%;
+}
+
+#talents-specs #more-info .details {
+  width: 70%;
+}
+
+#blue-bar {
+  height: 150px;
+  background-color: #0282f9;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+#blue-bar .buy-comics {
+  display: flex;
+  align-items: center;
+  margin: 0 30px;
+}
+
+#blue-bar .buy-comics img {
+  width: 50px;
+}
+
+#blue-bar .buy-comics span {
+  margin-left: 15px;
+}
+
 #blue-bar {
   background-color: #0282f9;
   height: 200px;
